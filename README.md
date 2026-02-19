@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Nardos Tsige 👋
 
-<!--
-**nardos-tsige/nardos-tsige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 **2nd Year Software Engineering** student at AAU
+- 🌱 Teaching myself **web development** through projects and tutorials
+- 🐍 Learning **Data Structures and Algorithms with Python**
+- 🎨 **UI/UX enthusiast** who cares about clean, user-friendly design
+- ✅ Just finished my **first website** and hungry for more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 How I Learn
+
+> *"Project and tutorial based learner"* – I learn best by building things and following along with guided content.
+
+## 🔭 Current Focus
+
+- Building more web projects to level up my frontend skills
+- Solving DSA problems in Python daily
+- Learning UI/UX principles one design at a time
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nardos-tsige-b642093a3/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsigeferejanardos@gmail.com)
+
+---
+
+⭐ *Thanks for visiting! Feel free to connect or check out my repos below.*
