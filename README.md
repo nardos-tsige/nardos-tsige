@@ -15,7 +15,7 @@
 ## 🔭 Current Focus
 
 - Building more web projects to level up my frontend skills
-- Solving DSA problems(leetcode, codeforce, HackerRank, GeeksforGeeks) in Python daily
+- Solving DSA problems(leetcode, codeforce, HackerRank, GeeksforGeeks) in Python, Java, JS and C++ daily
 - Learning UI/UX principles one design at a time
 
 ## 📫 Let's Connect!
