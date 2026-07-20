@@ -1,98 +1,44 @@
 # 👋 Hi, I'm Nardos Tsige
 
-**Junior Data Analyst | Python, SQL, Machine Learning | Building Data Pipelines & ML Models**
+**Junior Data Analyst | Python, SQL, Machine Learning**
 
-I'm a passionate data professional and 2nd-year Software Engineering student at Addis Ababa University, completing the intensive KAIM9 Data Analytics programme with 10 Academy. I build data pipelines, machine learning models, and analytics platforms that solve real-world problems.
+Building data pipelines, ML models, and analytics platforms that solve real-world problems.
+2nd-year Software Engineering student at AAU · KAIM9 Data Analytics Programme
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, SQL, Java, JavaScript, C++
+**Data & ML:** Python, SQL, Pandas, Scikit-learn, XGBoost, SHAP, YOLO, NLP, PyTorch
 
-**Data & ML:** Pandas, NumPy, Scikit-learn, XGBoost, SHAP, SMOTE, YOLO, NLP (spaCy, Transformers, DistilBERT)
+**Data Engineering:** PostgreSQL, dbt, FastAPI, Dagster, Docker, ETL Pipelines
 
-**Data Engineering:** PostgreSQL, dbt, FastAPI, Dagster, Docker, ETL/ELT Pipelines
+**Visualization:** Power BI, Matplotlib, Seaborn, Streamlit, Plotly
 
-**Visualization:** Power BI, Matplotlib, Seaborn, Plotly, Streamlit
-
-**Tools:** Git, GitHub, VS Code, Jupyter Notebooks, LeetCode
+**Tools:** Git, GitHub, VS Code, Jupyter Notebooks
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🏥 Medical Telegram Warehouse
-*End-to-end data pipeline for analyzing Ethiopian medical businesses from public Telegram channels*
+- **[Medical Telegram Warehouse](https://github.com/nardos-tsige/medical-telegram-warehouse)** — End-to-end data pipeline for Ethiopian medical businesses (5,009 messages, 14 channels, FastAPI, Dagster)
 
-- Scraped 5,009 messages from 14 Telegram channels using Telethon
-- Transformed data with dbt (star schema with 3 marts)
-- Enriched images with YOLOv8 object detection (93 detections)
-- Built FastAPI with 5 analytical endpoints
-- Orchestrated with Dagster (daily automation)
+- **[Fraud Detection System](https://github.com/nardos-tsige/fraud-detection)** — ML model with F1-score of 0.87 using Random Forest, SMOTE, and SHAP
 
-🔗 [GitHub Repo](https://github.com/nardos-tsige/medical-telegram-warehouse)
+- **[African Climate Analysis](https://github.com/nardos-tsige/african-climate-analysis)** — Climate trend analysis & Streamlit dashboard for COP32 stakeholders
 
 ---
 
-#### 🔍 Fraud Detection System
-*Machine learning system to detect fraudulent transactions across e-commerce & bank streams*
+### 📊 LeetCode
 
-- Achieved F1-score of 0.87 with Random Forest
-- Implemented SMOTE for class imbalance
-- Used SHAP for model explainability
-- Delivered 5 actionable business recommendations
-
-🔗 [GitHub Repo](https://github.com/nardos-tsige/fraud-detection)
-
----
-
-#### 🌍 African Climate Trend Analysis
-*Exploratory analysis of historical climate data across 5 African nations*
-
-- Cleaned and analyzed 5 years of NASA POWER climate data
-- Built Streamlit dashboard for policy stakeholders
-- Delivered cross-country vulnerability ranking
-
-🔗 [GitHub Repo](https://github.com/nardos-tsige/african-climate-analysis)
-
----
-
-#### 📱 FinTech Customer Review Analytics
-*Sentiment analysis of 1,200+ Google Play reviews for Ethiopian banks*
-
-- Applied DistilBERT sentiment analysis
-- Extracted themes using TF-IDF and spaCy
-- Delivered actionable product recommendations
-
-🔗 [GitHub Repo](https://github.com/nardos-tsige/fintech-review-analytics)
-
----
-
-### 📊 LeetCode Progress
-
-Actively solving Data Structures & Algorithms problems to sharpen analytical and coding skills.
-
-**Languages:** Python (primary), Java, JavaScript, C++
-
-🔗 [LeetCode Profile](https://leetcode.com/your-username)
+Solving DSA problems daily — Python (primary), Java, JavaScript, C++
 
 ---
 
 ### 📫 Let's Connect
 
-- 📧 Email: tsigeferejanardos@gmail.com
-- 🔗 LinkedIn: [Nardos Tsige](https://linkedin.com/in/your-profile)
-- 🐙 GitHub: [@nardos-tsige](https://github.com/nardos-tsige)
+[LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:tsigeferejanardos@gmail.com)
 
 ---
 
-### 🌱 Currently Learning
-
-- Advanced Machine Learning & Deep Learning
-- Production-ready Data Pipelines
-- Cloud Computing (AWS/Azure)
-
----
-
-⭐ *"Building things. Learning daily. Growing faster."*
+*"Building things. Learning daily. Growing faster."*
