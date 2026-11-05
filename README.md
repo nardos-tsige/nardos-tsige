@@ -42,7 +42,7 @@ I am a Software Engineer based in Addis Ababa, focusing on backend architecture 
 
 ### Professional Experience
 
-**Software & Data Engineering Trainee** | *[10 Academy - Kifiya AI Mastery Programme](https://www.linkedin.com/company/kifiya-financial-technology/posts/)* (2026 - Present)
+**Software & Data Engineering Trainee** | *[10 Academy - Kifiya AI Mastery Programme](https://www.linkedin.com/company/kifiya-financial-technology/posts/)* (2026)
 * Built 5+ end-to-end backend systems and pipelines utilizing Python, SQL, and REST APIs for finance, healthcare, and customer-experience use cases.
 * Designed a FastAPI backend integrated with a dbt-modeled PostgreSQL warehouse.
 * Developed a Dagster-orchestrated RAG chatbot service and created BI tooling using Streamlit and Power BI.
@@ -73,6 +73,6 @@ I am a Software Engineer based in Addis Ababa, focusing on backend architecture 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-omega-flame-99.vercel.app/)
 
 <br>
-<p>Addis Ababa, Ethiopia • +251941439593</p>
+<p>Addis Ababa, Ethiopia</p>
 
 </div>
