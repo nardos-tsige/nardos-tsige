@@ -10,7 +10,7 @@
 ---
 
 ### About Me
-I am a Software Engineer based in Addis Ababa, focusing on backend architecture and data systems[cite: 1]. I am currently pursuing a Bachelor of Science in Software Engineering at Addis Ababa University[cite: 1]. Alongside my degree, I am a Software & Data Engineering Trainee at the Kifiya AI Mastery Programme (10 Academy) and am advancing my expertise in AI Model Development and Implementation through FUSE AI-201[cite: 1]. I specialize in building end-to-end backend systems, robust ETL pipelines, and integrating machine learning models into production environments[cite: 1].
+I am a Software Engineer based in Addis Ababa, focusing on backend architecture and data systems. I am currently pursuing a Bachelor of Science in Software Engineering at [Addis Ababa University](https://www.aau.edu.et/). Alongside my degree, I am a Software & Data Engineering Trainee at the [Kifiya AI Mastery Programme (10 Academy)](https://www.linkedin.com/company/kifiya-financial-technology/posts/) and am advancing my expertise in AI Model Development and Implementation through FUSE AI-201. I specialize in building end-to-end backend systems, robust ETL pipelines, and integrating machine learning models into production environments.
 
 ---
 
@@ -42,22 +42,22 @@ I am a Software Engineer based in Addis Ababa, focusing on backend architecture 
 
 ### Professional Experience
 
-**Software & Data Engineering Trainee** | *10 Academy - Kifiya AI Mastery Programme* (2026 - Present)[cite: 1]
-* Built 5+ end-to-end backend systems and pipelines utilizing Python, SQL, and REST APIs for finance, healthcare, and customer-experience use cases[cite: 1].
-* Designed a FastAPI backend integrated with a dbt-modeled PostgreSQL warehouse[cite: 1].
-* Developed a Dagster-orchestrated RAG chatbot service and created BI tooling using Streamlit and Power BI[cite: 1].
+**Software & Data Engineering Trainee** | *[10 Academy - Kifiya AI Mastery Programme](https://www.linkedin.com/company/kifiya-financial-technology/posts/)* (2026 - Present)
+* Built 5+ end-to-end backend systems and pipelines utilizing Python, SQL, and REST APIs for finance, healthcare, and customer-experience use cases.
+* Designed a FastAPI backend integrated with a dbt-modeled PostgreSQL warehouse.
+* Developed a Dagster-orchestrated RAG chatbot service and created BI tooling using Streamlit and Power BI.
 
 ---
 
 ### Featured Projects
 
 **[Medical Telegram Warehouse](https://github.com/nardos-tsige/medical-telegram-warehouse)**
-* Engineered an end-to-end backend pipeline featuring Telethon ingestion, a dbt star schema on PostgreSQL, and a FastAPI service layer to expose analytics on Ethiopian medical Telegram data[cite: 1].
-* Orchestrated the data pipeline with Dagster, integrated YOLOv8 for image classification, and produced production-style documentation[cite: 1].
+* Engineered an end-to-end backend pipeline featuring Telethon ingestion, a dbt star schema on PostgreSQL, and a FastAPI service layer to expose analytics on Ethiopian medical Telegram data.
+* Orchestrated the data pipeline with Dagster, integrated YOLOv8 for image classification, and produced production-style documentation.
 
 **[RAG-Powered Complaint Analyzer](https://github.com/nardos-tsige/complaint-analyzer)**
-* Built a RAG-powered chatbot for financial services that combines FAISS semantic search with a Flan-T5-base LLM, reducing complaint-analysis time from days to minutes[cite: 1].
-* Automated reliable, repeatable pipeline runs using Dagster and deployed an interactive Gradio dashboard with source attribution[cite: 1].
+* Built a RAG-powered chatbot for financial services that combines FAISS semantic search with a Flan-T5-base LLM, reducing complaint-analysis time from days to minutes.
+* Automated reliable, repeatable pipeline runs using Dagster and deployed an interactive Gradio dashboard with source attribution.
 
 **[Socratic Mentor](https://github.com/nardos-tsige/socratic-mentor)**
 * Developed an AI-driven educational tutor that utilizes the Socratic method to guide students toward answers through independent discovery.
