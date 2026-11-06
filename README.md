@@ -10,7 +10,7 @@
 ---
 
 ### About Me
-I am a Software Engineer based in Addis Ababa, focusing on backend architecture and data systems. I am currently pursuing a Bachelor of Science in Software Engineering at [Addis Ababa University](https://www.aau.edu.et/). Alongside my degree, I am a Software & Data Engineering Trainee at the [Kifiya AI Mastery Programme (10 Academy)](https://www.linkedin.com/company/kifiya-financial-technology/posts/) and am advancing my expertise in AI Model Development and Implementation through FUSE AI-201. I specialize in building end-to-end backend systems, robust ETL pipelines, and integrating machine learning models into production environments.
+I am a Software Engineer based in Addis Ababa, focusing on backend architecture and data systems. I am currently pursuing a Bachelor of Science in Software Engineering at [Addis Ababa University](https://www.aau.edu.et/). Alongside my degree, I was a Software & Data Engineering Trainee at the [Kifiya AI Mastery Programme (10 Academy)](https://www.linkedin.com/company/kifiya-financial-technology/posts/) and am advancing my expertise in AI Model Development and Implementation through FUSE AI-201. I specialize in building end-to-end backend systems, robust ETL pipelines, and integrating machine learning models into production environments.
 
 ---
 
