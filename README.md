@@ -22,6 +22,7 @@ I am a Software Engineer based in Addis Ababa, focusing on backend architecture 
 ![TypeScript](https://img.shields.io/badge/TypeScript-2B2D31?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-2B2D31?style=for-the-badge&logo=javascript&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-2B2D31?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Backend & Data**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-2563EB?style=for-the-badge&logo=fastapi&logoColor=white) 
